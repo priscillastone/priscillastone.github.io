@@ -6,7 +6,7 @@ site_description: 'Welcome to my blog. It features topics such as fashion, archi
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-production_url: https://priscilla.github.io/
+production_url: https://priscillastone.github.io/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
