@@ -9,5 +9,3 @@ Hi! I'm Priscilla. After 10 years of working in Marketing and Fashion, and truly
 >Somewhere, something incredible is waiting to be known. <cite>— Carl Sagan.</cite>
 
 *Welcome and thank you for reading!* 
-
-*Thank You for reading!*
