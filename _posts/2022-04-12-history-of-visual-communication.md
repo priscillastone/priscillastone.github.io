@@ -3,7 +3,7 @@ layout: post
 title: "Beginning Anew"
 tags: [Mindset, Tips]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2.jpg
+featured_image: assets/images/pages/IMG_5111.jpg
 featured: true
 hidden: true
 author: priscilla
@@ -22,8 +22,6 @@ With love,
 P.S.
 
 <!--more-->
-
-![](assets/images/pages/IMG_5111.jpg#wide)
 
 > “Don’t design for everyone. It’s impossible. All you end up doing is designing something that makes everyone unhappy.”
 
