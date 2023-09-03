@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beginning Anew"
-tags: [Design, Tips]
+tags: [Mindset, Tips]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2.jpg
 featured: true
