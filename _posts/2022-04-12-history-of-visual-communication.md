@@ -23,5 +23,5 @@ P.S.
 
 <!--more-->
 
-> “Don’t design for everyone. It’s impossible. All you end up doing is designing something that makes everyone unhappy.”
+> “You are the Universe experiencing itself." — Alan Watts
 
