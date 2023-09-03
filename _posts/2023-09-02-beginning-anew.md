@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beginning Anew"
-tags: [Mindset, Tips]
+tags: [Mindset, Personal Updates]
 featured_image_thumbnail:
 featured_image: assets/images/pages/IMG_5111.jpg
 featured: true
