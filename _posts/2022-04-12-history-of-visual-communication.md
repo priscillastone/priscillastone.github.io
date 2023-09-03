@@ -6,7 +6,7 @@ featured_image_thumbnail:
 featured_image: assets/images/posts/2.jpg
 featured: true
 hidden: true
-author: daniel
+author: priscilla
 ---
 
 I don't know where this is exactly going to go, but suddenly, I am experiencing a great resent. A refreshing of the mind, a recalibration in my mindset, goals, emotions, fulfillments, and so much more. Suddenly, I am shedding almost a decade of wanting something that I really thought was my calling. Perhaps, in another Universe.
