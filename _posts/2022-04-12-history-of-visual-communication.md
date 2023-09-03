@@ -9,7 +9,7 @@ hidden: true
 author: priscilla
 ---
 
-I don't know where this is exactly going to go, but suddenly, I am experiencing a great resent. A refreshing of the mind, a recalibration in my mindset, goals, emotions, fulfillments, and so much more. Suddenly, I am shedding almost a decade of wanting something that I really thought was my calling. Perhaps, in another Universe.
+I don't know where this is exactly going to go, but suddenly, I am experiencing a great reset. A refreshing of the mind, a recalibration in my mindset, goals, emotions, fulfillments, and so much more. Suddenly, I am shedding almost a decade of wanting something that I really thought was my calling. Perhaps, in another Universe.
 
 However, I find myself in this one. I am not sure what was the catalyst for it, well, perhaps I do, but I will go into that later, but I woke up one morning over the summer just wanting and ready for something different. Something new. I could almost feel it, smell it, taste it. I felt like it was one of those weird dreams when you're trying so hard to make something out and you're sort of squinting to sharpen the mirage on the horizon: that is what it felt like. But instead of me approaching it, it was approaching me. Almost as if it was a fast-moving train quickly coming close, I could feel the vibrations of the rumbling, the sound of the horn, the wind blowing my hair back and along with it, old desires and expectations. And suddenly... my new journey had arrived. 
 
