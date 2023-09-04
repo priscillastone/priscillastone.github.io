@@ -2,7 +2,7 @@
 name: 'Stargirl.io'
 description: 'The search for something incredible'
 # Sidebar about text
-site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
+site_description: 'Welcome to my blog. It features my personal journey and covers travel, academia, books, and everything in between. My ethos is to combine resilience with curiosity and passion, which in my opinion, you can never go wrong with.'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
