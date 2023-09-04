@@ -4,10 +4,12 @@ title: About
 featured_image: /assets/images/pages/IMG_5111.jpg
 ---
 
-Hi! I'm Priscilla. After 10 years of working in Marketing and Fashion, and truly enjoying it, I’m pursuing an entirely new journey: my goal is to study Theoretical Physics formally. It will take time, but I'm excited for this new path. 
+Hi! I’m Priscilla and welcome to my blog. It features my personal experiences and covers travel, academia, books, and everything in between. After 10 years of working in marketing and fashion, I’m slowly making room for an entirely new journey. I‘ve just begun studying Physics at the City University of New York and my dream is to one day research black holes and other theoretical physics phenomena if I’m lucky enough. 
 
-I’m an avid traveler, reader, futurist, quantum physics enthusiast, and I describe myself as a storyteller that is always curious. I’m experience-driven, so I really want to stimulate emotion and I hope my journey resonates with others. I’m a solo parent of a wonderful 9-year-old boy. As you can see, I love the mountains.
+I am an avid traveler, reader, futurist, quantum physics enthusiast, and I describe myself as a purpose-driven storyteller. My ethos is to combine resilience with curiosity and passion, which in my opinion, you can never go wrong with.
+
+I’m a solo parent of a wonderful 9-year-old boy and we both love the cosmos, adventures, and mountains. 
 
 >Somewhere, something incredible is waiting to be known. <cite>— Carl Sagan</cite>
 
-*Welcome and thank you for reading!* 
+*Thank you for reading!* 
