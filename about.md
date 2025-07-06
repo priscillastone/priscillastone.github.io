@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/pages/IMG_5111.jpg
 ---
 
-Hi! **I’m Priscilla and welcome to my blog.** It features my personal experiences and covers travel, personal growth, academia, books, and everything in between. Following a long escapade of adventures, I have decided to study Physics. 
+Hi! **I’m Priscilla and welcome to my blog.** It features my personal experiences and covers travel, personal growth, academia, books, and everything in between. Following a long escapade of adventures, I have decided to study Physics.
 
 I'm an avid traveler, reader, futurist, and purpose-driven storyteller. My ethos is to combine resilience with curiosity and passion, which in my opinion, you can never go wrong with.
 
