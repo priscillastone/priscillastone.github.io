@@ -8,7 +8,7 @@ Hi! **I’m Priscilla and welcome to my blog.** It features my personal experien
 
 I'm an avid traveler, reader, futurist, and purpose-driven storyteller. My ethos is to combine resilience with curiosity and passion, which in my opinion, you can never go wrong with.
 
-I have a wonderful 11-year-old boy and we both love the cosmos, reading, adventures, and the mountains. 
+I have a wonderful 11-year-old boy, and we both love the cosmos, reading, adventures, and the mountains. 
 
 >Somewhere, something incredible is waiting to be known. <cite>— Carl Sagan</cite>
 
