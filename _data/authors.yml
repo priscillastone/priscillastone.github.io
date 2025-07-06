@@ -3,16 +3,9 @@ priscilla:
   name: Priscilla
   url_full: stargirl.io
   url: stargirl.io
-  bio: Priscilla is a traveler, futurist, and purpose-driven storyteller. After a decade in the workforce, she has recently returned to school to study Physics at City University of New York. Read more <a href=https://stargirl.io/about>here</a>. 
+  bio: Priscilla is a traveler, futurist, and lover of books and space. After a decade in the workforce, she has recently returned to school to study Physics. Read more <a href=https://stargirl.io/about>here</a>. 
   picture: /assets/images/priscillastargirl.jpg
   email: thepriscillaparticle@gmail.com
   twitter: priscilaparticl
-nancy:
-  username: nancy
-  name: Nancy Perez
-  url_full: https://justgoodthemes.com/
-  url: justgoodthemes.com
-  bio: Nancy is a reporter at Wild Bird magazine, where she writes about technology / design companies and the people they impact.
-  picture: /assets/images/nancy.jpg
-  facebook: False
-  twitter: justgoodthemes
+
+
